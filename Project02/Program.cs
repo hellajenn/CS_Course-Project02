@@ -33,7 +33,7 @@
             } else
             {
                 double newTemp = (temp-32) * (5.0 / 9);
-                Console.WriteLine($"{temp} C is {newTemp} F");
+                Console.WriteLine($"{temp} F is {newTemp} C");
             }
 
         }
